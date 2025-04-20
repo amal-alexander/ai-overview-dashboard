@@ -1,0 +1,31 @@
+query,clicks,impressions,ctr,position,page,date,ai_overview_clicks
+how to make pizza,150,2500,6.0,3.2,https://example.com/how-to-make-pizza,2023-01-01,45
+best chocolate cake recipe,120,1800,6.7,2.5,https://example.com/chocolate-cake-recipe,2023-01-01,35
+vegan lasagna recipe,85,1200,7.1,4.1,https://example.com/vegan-lasagna,2023-01-01,22
+easy banana bread,95,1600,5.9,3.8,https://example.com/banana-bread,2023-01-01,28
+homemade pizza dough,110,1900,5.8,3.5,https://example.com/pizza-dough,2023-01-01,32
+gluten free cookies,75,1100,6.8,4.2,https://example.com/gluten-free-cookies,2023-01-01,18
+chicken soup recipe,130,2200,5.9,2.8,https://example.com/chicken-soup,2023-01-01,38
+apple pie recipe,105,1700,6.2,3.3,https://example.com/apple-pie,2023-01-01,30
+vegetarian chili,65,950,6.8,4.5,https://example.com/vegetarian-chili,2023-01-01,15
+sourdough bread recipe,100,1500,6.7,3.7,https://example.com/sourdough-bread,2023-01-01,27
+how to make pizza,165,2600,6.3,3.0,https://example.com/how-to-make-pizza,2023-01-02,50
+best chocolate cake recipe,135,1850,7.3,2.4,https://example.com/chocolate-cake-recipe,2023-01-02,40
+vegan lasagna recipe,90,1300,6.9,4.0,https://example.com/vegan-lasagna,2023-01-02,25
+easy banana bread,100,1650,6.1,3.7,https://example.com/banana-bread,2023-01-02,30
+homemade pizza dough,120,2000,6.0,3.4,https://example.com/pizza-dough,2023-01-02,36
+gluten free cookies,80,1200,6.7,4.1,https://example.com/gluten-free-cookies,2023-01-02,20
+chicken soup recipe,140,2300,6.1,2.6,https://example.com/chicken-soup,2023-01-02,42
+apple pie recipe,110,1750,6.3,3.2,https://example.com/apple-pie,2023-01-02,33
+vegetarian chili,70,1000,7.0,4.3,https://example.com/vegetarian-chili,2023-01-02,18
+sourdough bread recipe,105,1550,6.8,3.6,https://example.com/sourdough-bread,2023-01-02,30
+how to make pizza,180,2700,6.7,2.8,https://example.com/how-to-make-pizza,2023-01-03,55
+best chocolate cake recipe,145,1900,7.6,2.3,https://example.com/chocolate-cake-recipe,2023-01-03,45
+vegan lasagna recipe,95,1350,7.0,3.9,https://example.com/vegan-lasagna,2023-01-03,28
+easy banana bread,105,1700,6.2,3.6,https://example.com/banana-bread,2023-01-03,32
+homemade pizza dough,125,2050,6.1,3.3,https://example.com/pizza-dough,2023-01-03,38
+gluten free cookies,85,1250,6.8,4.0,https://example.com/gluten-free-cookies,2023-01-03,22
+chicken soup recipe,150,2350,6.4,2.5,https://example.com/chicken-soup,2023-01-03,46
+apple pie recipe,115,1800,6.4,3.1,https://example.com/apple-pie,2023-01-03,35
+vegetarian chili,75,1050,7.1,4.2,https://example.com/vegetarian-chili,2023-01-03,20
+sourdough bread recipe,110,1600,6.9,3.5,https://example.com/sourdough-bread,2023-01-03,33

@@ -1,0 +1,31 @@
+query,clicks,impressions,ctr,position,page,date,ai_overview_clicks
+how to make pizza,120,2200,5.5,4.5,https://cookingsite.com/how-to-make-pizza,2023-01-01,30
+best chocolate cake recipe,100,1600,6.3,3.5,https://cookingsite.com/chocolate-cake-recipe,2023-01-01,25
+vegan lasagna recipe,70,1000,7.0,5.1,https://cookingsite.com/vegan-lasagna,2023-01-01,15
+easy banana bread,80,1400,5.7,4.8,https://cookingsite.com/banana-bread,2023-01-01,18
+homemade pizza dough,90,1700,5.3,4.5,https://cookingsite.com/pizza-dough,2023-01-01,20
+gluten free cookies,65,900,7.2,5.2,https://cookingsite.com/gluten-free-cookies,2023-01-01,12
+chicken soup recipe,110,1900,5.8,3.8,https://cookingsite.com/chicken-soup,2023-01-01,26
+apple pie recipe,85,1500,5.7,4.3,https://cookingsite.com/apple-pie,2023-01-01,19
+vegetarian chili,55,800,6.9,5.5,https://cookingsite.com/vegetarian-chili,2023-01-01,10
+sourdough bread recipe,75,1300,5.8,4.7,https://cookingsite.com/sourdough-bread,2023-01-01,16
+how to make pizza,130,2300,5.7,4.3,https://cookingsite.com/how-to-make-pizza,2023-01-02,33
+best chocolate cake recipe,110,1650,6.7,3.4,https://cookingsite.com/chocolate-cake-recipe,2023-01-02,28
+vegan lasagna recipe,75,1100,6.8,5.0,https://cookingsite.com/vegan-lasagna,2023-01-02,17
+easy banana bread,85,1450,5.9,4.7,https://cookingsite.com/banana-bread,2023-01-02,20
+homemade pizza dough,95,1750,5.4,4.4,https://cookingsite.com/pizza-dough,2023-01-02,22
+gluten free cookies,70,950,7.4,5.1,https://cookingsite.com/gluten-free-cookies,2023-01-02,14
+chicken soup recipe,115,1950,5.9,3.7,https://cookingsite.com/chicken-soup,2023-01-02,28
+apple pie recipe,90,1550,5.8,4.2,https://cookingsite.com/apple-pie,2023-01-02,21
+vegetarian chili,60,850,7.1,5.4,https://cookingsite.com/vegetarian-chili,2023-01-02,12
+sourdough bread recipe,80,1350,5.9,4.6,https://cookingsite.com/sourdough-bread,2023-01-02,18
+how to make pizza,140,2400,5.8,4.2,https://cookingsite.com/how-to-make-pizza,2023-01-03,36
+best chocolate cake recipe,120,1700,7.1,3.3,https://cookingsite.com/chocolate-cake-recipe,2023-01-03,31
+vegan lasagna recipe,80,1150,7.0,4.9,https://cookingsite.com/vegan-lasagna,2023-01-03,19
+easy banana bread,90,1500,6.0,4.6,https://cookingsite.com/banana-bread,2023-01-03,22
+homemade pizza dough,100,1800,5.6,4.3,https://cookingsite.com/pizza-dough,2023-01-03,24
+gluten free cookies,75,1000,7.5,5.0,https://cookingsite.com/gluten-free-cookies,2023-01-03,16
+chicken soup recipe,120,2000,6.0,3.6,https://cookingsite.com/chicken-soup,2023-01-03,30
+apple pie recipe,95,1600,5.9,4.1,https://cookingsite.com/apple-pie,2023-01-03,23
+vegetarian chili,65,900,7.2,5.3,https://cookingsite.com/vegetarian-chili,2023-01-03,14
+sourdough bread recipe,85,1400,6.1,4.5,https://cookingsite.com/sourdough-bread,2023-01-03,20
