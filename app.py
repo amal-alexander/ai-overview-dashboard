@@ -4,6 +4,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import io
+import os.path
 from utils import validate_search_console_csv, process_search_data, compare_domains
 
 # Page configuration
@@ -27,6 +28,40 @@ if 'domains' not in st.session_state:
     st.session_state.domains = []
 if 'comparison_data' not in st.session_state:
     st.session_state.comparison_data = None
+    
+# Auto-load sample data if available and no data is uploaded yet
+if not st.session_state.uploaded_files_data:
+    sample_files = ["sample_data.csv", "sample_data_domain2.csv"]
+    all_exist = all(os.path.exists(file) for file in sample_files)
+    
+    if all_exist:
+        with st.spinner("Loading sample data for demonstration..."):
+            for file_name in sample_files:
+                try:
+                    # Read the file
+                    df = pd.read_csv(file_name)
+                    
+                    # Validate and process
+                    is_valid, message = validate_search_console_csv(df)
+                    
+                    if is_valid:
+                        # Process the data
+                        domain, processed_data = process_search_data(df)
+                        
+                        if domain not in st.session_state.domains:
+                            st.session_state.domains.append(domain)
+                        
+                        # Store the processed data
+                        st.session_state.uploaded_files_data[file_name] = {
+                            'domain': domain,
+                            'data': processed_data
+                        }
+                
+                except Exception as e:
+                    st.error(f"Error loading sample data: {str(e)}")
+            
+            if st.session_state.uploaded_files_data:
+                st.success("Sample data loaded for demonstration purposes.")
 
 # Create tabs for different functionalities
 tab1, tab2, tab3, tab4 = st.tabs([
